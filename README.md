@@ -2,3 +2,5 @@
 <br>
 Nama	: M. Rizki Rianto <br>
 NIM		: I.2210881
+<br>
+![Outputan kode](Output.png)
